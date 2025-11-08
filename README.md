@@ -125,35 +125,18 @@ tallericm3/
 
 | Login                           | Map                         | Profile                             |
 | ------------------------------- | --------------------------- | ----------------------------------- |
-| ![Login](screenshots/login.png) | ![Map](screenshots/map.png) | ![Profile](screenshots/profile.png) |
-
-*(Add your screenshots in the `/screenshots` directory.)*
-
----
-
-## 🔮 Future Improvements
-
-* Add push notifications for friend connections.
-* Include offline map caching.
-* Dark mode and adaptive color themes.
-* Multi-language support (EN/ES).
-* Live chat between connected users.
+| <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/7f184ae1-9212-4d8c-9c76-ede2b04ebdd1" /> | <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/31c60731-99a2-4fad-8ef1-2719e487ec26" /> | <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/fc954d8e-5af8-4c97-8d97-6265be69dda1" />
+ |
 
 ---
 
 ## 👥 Credits
 
 Developed by
-**Kevin G. Gaitán**
-*Mobile Computing — Taller 3*
-*Faculty of Engineering, 2025*
+**Kevin G. Gaitán, Gabriel Camacho**
+*Introduccion Computacion Movil — Taller 3*
+*Faculty of Engineering Systems, Pontificia Universidad Javeriana, 2025*
 
----
-
-## 📝 License
-
-This project is licensed under the **MIT License**.
-You are free to use, modify, and distribute it with proper credit.
 
 ---
 
@@ -161,7 +144,3 @@ You are free to use, modify, and distribute it with proper credit.
 
 ```
 
----
-
-Would you like me to make a **Spanish version** of this README too (for submission or bilingual portfolio presentation)?
-```
