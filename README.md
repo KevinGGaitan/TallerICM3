@@ -123,7 +123,7 @@ tallericm3/
 
 ## 📸 Screenshots
 
-| Login                           | Map                         | Profile                             |
+| Login                           |Profile                       |               map             |
 | ------------------------------- | --------------------------- | ----------------------------------- |
 | <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/7f184ae1-9212-4d8c-9c76-ede2b04ebdd1" /> | <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/31c60731-99a2-4fad-8ef1-2719e487ec26" /> | <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/bfabef7c-50f0-4aab-a4f5-63057e5f9e58" />|
 
