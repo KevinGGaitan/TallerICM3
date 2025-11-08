@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "63496598801",
+    "firebase_url": "https://tallericm3-698bb-default-rtdb.firebaseio.com",
+    "project_id": "tallericm3-698bb",
+    "storage_bucket": "tallericm3-698bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63496598801:android:a94ee6210916e32e8e08b0",
+        "android_client_info": {
+          "package_name": "com.example.tallericm3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63496598801-bkga49gdppp2ghvdkq9j57hjoi2b2d91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tallericm3",
+            "certificate_hash": "6346dc0f024d6d2e8c5749e36f8beef1a56d0bbe"
+          }
+        },
+        {
+          "client_id": "63496598801-a7mqkmlso6h04r928fd5b5pt06qalviq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Gnr_GI47oAPm0okNzyViciBkaLmMyzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63496598801-a7mqkmlso6h04r928fd5b5pt06qalviq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

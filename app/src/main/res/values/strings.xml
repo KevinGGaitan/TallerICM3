@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TallerICM3</string>
+
+    <string name="facebook_app_id">833181953002345</string>
+    <string name="fb_login_protocol_scheme">fb833181953002345</string>
+    <string name="facebook_client_token">f805d634c6b6269b67066299861c629b</string>
+    <string name="google_client_id">63496598801-bkga49gdppp2ghvdkq9j57hjoi2b2d91.apps.googleusercontent.com </string>
+</resources>
